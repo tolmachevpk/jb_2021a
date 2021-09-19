@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Peter/CLionProjects/jb_2021a/Container.h
+
+/Users/Peter/CLionProjects/jb_2021a/main.cpp
+iostream
+-
+vector
+-
+Container.h
+/Users/Peter/CLionProjects/jb_2021a/Container.h
+

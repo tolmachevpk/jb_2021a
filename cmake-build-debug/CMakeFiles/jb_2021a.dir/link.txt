@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/jb_2021a.dir/main.cpp.o CMakeFiles/jb_2021a.dir/Container.cpp.o -o jb_2021a 
