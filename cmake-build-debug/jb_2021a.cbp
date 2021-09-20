@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Peter/CLionProjects/jb_2021a/Container.cpp">
-			<Option target="jb_2021a"/>
-		</Unit>
 		<Unit filename="/Users/Peter/CLionProjects/jb_2021a/Container.h">
 			<Option target="jb_2021a"/>
 		</Unit>

@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/jb_2021a.dir/Container.cpp.o"
   "CMakeFiles/jb_2021a.dir/main.cpp.o"
   "jb_2021a"
   "jb_2021a.pdb"
