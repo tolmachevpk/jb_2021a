@@ -41,6 +41,7 @@ void Container<T>::add(const T &elem) {
 
 template <typename T>
 int Container<T>::erase(const T &elem) {
+    // Ищем позицию элемента в буфере:
     int pos = -1;
     for (int i = 0; i < buf.size(); i++) {
         if (buf[i] == elem) {
@@ -48,6 +49,7 @@ int Container<T>::erase(const T &elem) {
             break;
         }
     }
+    // Удаляем, если нашли, врзвращаем 0, если такого элемента нет
     if (pos == -1) {
         return 0;
     }
